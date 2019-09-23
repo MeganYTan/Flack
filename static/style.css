@@ -1,0 +1,16 @@
+body{
+	background-color: #343a40;
+	
+}
+
+#wrapper{
+	height:100vh;
+}
+
+#sidebar, #chatBody{
+	overflow-y:scroll;
+}
+
+#messages li button{
+    float: right;
+}
