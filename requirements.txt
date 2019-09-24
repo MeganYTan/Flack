@@ -3,4 +3,3 @@ Flask-SocketIO
 gunicorn
 Jinja2
 eventlet
-JS Client v2.1.1
